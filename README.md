@@ -1,3 +1,28 @@
+# Arduino RC Car 🚗
+This is a Bluetooth-controlled RC car using Arduino.
+
+## Features
+- Wireless control
+- Speed control
+- Easy setup
+
+## Components
+- Arduino Uno
+- Motor Driver
+- Bluetooth Module
+- Battery
+- Chassis
+- Tyres
+- Motors
+- Connecting wires
+
+## How to Use
+1. Upload code
+2. Connect circuit
+3. Pair Bluetooth
+4. Run car
+
+## Arduino Code:
 // Motor driver input pins connected to Arduino
 #define in1 12   // Motor 1 direction pin
 #define in2 11   // Motor 1 direction pin
