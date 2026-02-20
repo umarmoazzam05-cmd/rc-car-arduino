@@ -8,9 +8,9 @@ This is a Bluetooth-controlled RC car using Arduino.
 
 ## Components
 - Arduino Uno
-- Motor Driver
-- Bluetooth Module
-- Battery
+- Motor Driver(L298-N)
+- Bluetooth Module(HC-05)
+- Battery(3.7V Li-ion cells)
 - Chassis
 - Tyres
 - Motors
