@@ -3,8 +3,10 @@ This is a Bluetooth-controlled RC car using Arduino.
 
 ## Features
 - Wireless control
+- Forward And Backward Movement
+- Easy Turns control
 - Speed control
-- Easy setup
+- Beginner Friendly Setup 
 
 ## Components
 - Arduino Uno
